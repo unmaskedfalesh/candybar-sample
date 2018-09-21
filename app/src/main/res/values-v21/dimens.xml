@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <dimen name="card_corner_radius">12.0dip</dimen>
+    <dimen name="card_margin_bottom">4.0dip</dimen>
+    <dimen name="card_margin_left">4.0dip</dimen>
+    <dimen name="card_margin_right">4.0dip</dimen>
+    <dimen name="fab_margin">20.0dip</dimen>
+    <dimen name="notification_content_margin_start" tools:override="true">0.0dip</dimen>
+    <dimen name="notification_main_column_padding_top" tools:override="true">0.0dip</dimen>
+    <dimen name="notification_media_narrow_margin" tools:override="true">12.0dip</dimen>
+</resources>
